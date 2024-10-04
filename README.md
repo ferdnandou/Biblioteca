@@ -26,12 +26,12 @@ Este projeto é uma aplicação simples de uma Biblioteca Digital usando Python,
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/ferdnandou/SQLite-Python.git
+   git clone https://github.com/ferdnandou/Biblioteca.git
    ```
 
 2. Navegue até a pasta do projeto:
    ```bash
-   cd SQLite-Python
+   cd Biblioteca
    ```
 
 3. Execute o script principal:
